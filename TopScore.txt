@@ -1,4 +1,16 @@
-Mezzi, Mirano, 3
-tes, rocket, 2
-tes2, shara, 1
-test2, Mirano, 6
+Moch. Arif,Sahara,4
+Ogie.Y,Mirano,3
+Teng,Mirano,3
+Triyanto,Shara,3
+Wahyudi,Aurora,3
+Pangeram,Hercules,3
+Dani Irawan,Limofes,3
+Muniandy,Mirano,1
+Rivo,Rocket,1
+Mahadin,Limoges,1
+Jhon Karyadi,Mirano,0
+Windi,Rocket,0
+Syaiful,Limoges,0
+Muhammad Arifin,Aurora,0
+Iwan P,Hercules,0
+Tristan,Hercules,0
