@@ -4,7 +4,7 @@ Teng,Mirano,3
 Triyanto,Shara,3
 Wahyudi,Aurora,3
 Pangeram,Hercules,3
-Dani Irawan,Limofes,3
+Dani Irawan,Limoges,3
 Muniandy,Mirano,1
 Rivo,Rocket,1
 Mahadin,Limoges,1
