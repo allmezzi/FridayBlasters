@@ -9,7 +9,7 @@ Muniandy,Mirano,1
 Rivo,Rocket,1
 Mahadin,Limoges,2
 Jhon Karyadi,Mirano,2
-Windi,Rocket,1
+Windi,Rocket,2
 Syaiful,Limoges,3
 Muhammad Arifin,Aurora,1
 Iwan P,Hercules,0
