@@ -1,16 +1,16 @@
 Moch Arif,Sahara,4
-Ogie.Y,Mirano,3
+Ogie.Y,Mirano,6
 Teng,Mirano,3
 Triyanto,Sahara,3
-Wahyudi,Aurora,3
+Wahyudi,Aurora,4
 Pangeram,Hercules,3
 Dani Irawan,Limoges,3
 Muniandy,Mirano,1
 Rivo,Rocket,1
 Mahadin,Limoges,1
-Jhon Karyadi,Mirano,0
+Jhon Karyadi,Mirano,2
 Windi,Rocket,0
 Syaiful,Limoges,0
-Muhammad Arifin,Aurora,0
+Muhammad Arifin,Aurora,1
 Iwan P,Hercules,0
 Tristan,Hercules,0
