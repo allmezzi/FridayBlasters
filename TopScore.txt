@@ -1,5 +1,5 @@
-Moch Arif,Sahara,8
-Ogie.Y,Mirano,7
+Moch Arif,Sahara,5
+Ogie.Y,Mirano,10
 Teng,Mirano,3
 Triyanto,Sahara,4
 Wahyudi,Aurora,4
