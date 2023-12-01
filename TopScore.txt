@@ -2,7 +2,7 @@ Moch Arif,Sahara,5
 Ogie.Y,Mirano,10
 Teng,Mirano,3
 Triyanto,Sahara,4
-Wahyudi,Aurora,5
+Wahyudi,Aurora,6
 Pangeran,Hercules,5
 Dani Irawan,Limoges,3
 Muniandy,Mirano,1
