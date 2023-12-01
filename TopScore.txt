@@ -7,7 +7,7 @@ Pangeram,Hercules,3
 Dani Irawan,Limoges,3
 Muniandy,Mirano,1
 Rivo,Rocket,1
-Mahadin,Limoges,1
+Mahadin,Limoges,2
 Jhon Karyadi,Mirano,2
 Windi,Rocket,0
 Syaiful,Limoges,1
