@@ -10,7 +10,7 @@ Rivo,Rocket,1
 Mahadin,Limoges,1
 Jhon Karyadi,Mirano,2
 Windi,Rocket,0
-Syaiful,Limoges,0
+Syaiful,Limoges,1
 Muhammad Arifin,Aurora,1
 Iwan P,Hercules,0
 Tristan,Hercules,0
