@@ -12,6 +12,6 @@ Jhon Karyadi,Mirano,2
 Windi,Rocket,1
 Syaiful,Limoges,3
 Muhammad Arifin,Aurora,1
-Iwan P,Hercules,1
-Tristan,Hercules,0
+Iwan P,Hercules,0
+Tristan,Hercules,1
 eko wahyudi,Rocket,1
