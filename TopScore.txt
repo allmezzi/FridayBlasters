@@ -3,7 +3,7 @@ Ogie.Y,Mirano,6
 Teng,Mirano,3
 Triyanto,Sahara,3
 Wahyudi,Aurora,4
-Pangeram,Hercules,4
+Pangeran,Hercules,4
 Dani Irawan,Limoges,3
 Muniandy,Mirano,1
 Rivo,Rocket,1
