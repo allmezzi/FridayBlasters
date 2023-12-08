@@ -13,5 +13,5 @@ Windi,Rocket,4
 Syaiful,Limoges,3
 Muhammad Arifin,Aurora,1
 Iwan P,Hercules,0
-Tristan,Hercules,2
+Tristan,Hercules,3
 eko wahyudi,Rocket,2
