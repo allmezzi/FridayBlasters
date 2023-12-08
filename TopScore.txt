@@ -1,5 +1,5 @@
-Moch Arif,Sahara,5
-Ogie.Y,Mirano,10
+Moch Arif,Sahara,6
+Ogie.Y,Mirano,13
 Teng,Mirano,3
 Triyanto,Sahara,4
 Wahyudi,Aurora,6
@@ -8,10 +8,10 @@ Dani Irawan,Limoges,3
 Muniandy,Mirano,1
 Rivo,Rocket,1
 Mahadin,Limoges,2
-Jhon Karyadi,Mirano,2
-Windi,Rocket,3
+Jhon Karyadi,Mirano,4
+Windi,Rocket,4
 Syaiful,Limoges,3
 Muhammad Arifin,Aurora,1
 Iwan P,Hercules,0
-Tristan,Hercules,1
-eko wahyudi,Rocket,1
+Tristan,Hercules,2
+eko wahyudi,Rocket,2
