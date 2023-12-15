@@ -127,13 +127,23 @@
  <a id="myButton" href="#" target="_blank" class="btn btn-primary">Klik di sini untuk melihat standings</a>
 
 <div class="member-popup" id="memberPopup">
-<img src="" alt="Foto Anggota">
-	<button class="my-button" onclick="closePopup()">Close</button>
+	<table class="member-table">
+		<tr>
+			<td>
+				<button class="my-button" onclick="closePopup()">Close</button>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="" alt="Foto Anggota">
+			</td>
+		</tr>
+	</table>
 </div>
 
 <ul class="member-list">
 <li>
-    <i class="fas fa-user member-icon" onclick="showPopup('https://raw.githubusercontent.com/allmezzi/FridayBlasters/main/Member.jpeg')">Liat Team</i>
+    <i class="fa-solid fa-people-group" onclick="showPopup('https://raw.githubusercontent.com/allmezzi/FridayBlasters/main/Member.jpeg')">Team list</i>
 </li>
 </ul>
 
